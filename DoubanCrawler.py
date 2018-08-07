@@ -172,7 +172,7 @@ def main():
     # movies = getMovies("剧情", "美国")
     # print_movies(movies)
 
-    category_list = ["爱情", "动作", "青春"]
+    category_list = ["喜剧", "冒险", "灾难"]
     get_movie_info(category_list)
     get_movie_data(category_list)
 
